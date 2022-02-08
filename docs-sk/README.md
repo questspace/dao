@@ -1,4 +1,4 @@
-# QuestSpace DAO
+# QuestSpace DAO (SK)
 
 QuestSpace je Košický hackerspace a co-working, v ktorom kultivujeme komunitu ľudí so spoločnými záujmami ako sú počítače, technika, veda a umenie. Ponúka inkluzívny priestor kde sa títo ľudia môžu stretávať, zdieľať informácie, učiť sa a spolupracovať.
 
